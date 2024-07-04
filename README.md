@@ -78,3 +78,5 @@ Bu proje, ASP.NET Core 8.0 sürümü ile hazırlanmış dinamik bir admin ve yaz
 📌 Authentication & Authorization
 
 📌 Code First / MSSQL
+
+![portfoto](https://github.com/meltemozturkcan/PortfolioWebApp/assets/31880886/f9d0e6b1-614d-4482-9682-3d1b1cdc0d16)
